@@ -1,0 +1,6 @@
+Omegha TV - validacao de token GitHub longo
+Data/hora local: 2026-08-07T09:52:04-03:00
+Owner: omeghatv
+Repo: omeghatv-media
+Branch: main
+Este arquivo foi criado automaticamente para confirmar que o token possui permissao de escrita no repositorio.
